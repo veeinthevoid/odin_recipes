@@ -1,0 +1,1 @@
+For this project I will be building a recipe website. I will be creating a main index page consisting of links to a few recipes. I will be demonstrating skills like proper use of tags, terminal navigation, ect.
