@@ -2,12 +2,24 @@ ul {
     list-style-type: none;
 }
 
-a  {
+a {
     text-decoration: none;
     color: #651249;
+    /* font-weight: bold; */
+}
+
+a:hover {
+    color: #DD93C2;
+    font-weight: bold;
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #651249;
+
 }
 
 body {
     background-color: #FEF7FB;
-    
 }
