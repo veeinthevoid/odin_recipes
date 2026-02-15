@@ -21,5 +21,15 @@ h1 {
 }
 
 body {
-    background-color: #FEF7FB;
+    background-color: #FBDCEF;
+}
+
+h2 {
+    color: #D6409F;
+}
+
+.recipeimage img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
