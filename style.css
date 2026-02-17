@@ -25,11 +25,37 @@ body {
 }
 
 h2 {
-    color: #D6409F;
+    color: #41052b;
 }
 
-.recipeimage img {
+.recipeimage img {  
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.centerpageh {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+
+}
+
+.centerhome {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.centerpage {
+    display: grid;
+    height: 100vh;
+    line-height: 155%;
+}
+
+.centertxt {
+    display: grid;
+    text-align: center;
+    background-color: #DD93C2;
 }
